@@ -11,7 +11,7 @@ body {
   z-index: 1;
 
 }
-.ryn{
+.ryu{
 	width:659px;
 	height: 494px; 
 }
@@ -44,8 +44,8 @@ body {
   display: none;
   float: left;
   position: absolute;
-  top:126;
-  left: 396;
+  top:126px;
+  left: 396px;
   z-index: 10;
 }
 
